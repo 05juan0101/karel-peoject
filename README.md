@@ -5,4 +5,4 @@ this repository holds my programming projects done during the period of Stan cod
    \
 [Beeper RowAdv](SC001_lecture02/BeeperRowAdv.py)\
   \
-[Steeplechase](link)
+[Steeplechase](SC001_lecture02/Steeplechase.py)
