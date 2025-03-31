@@ -3,6 +3,6 @@ this repository holds my programming projects done during the period of Stan cod
 ## project source codes:
 [Beeper Row](SC001_lecture02/BeeperRow.py)\
    \
-[Beeper RowAdv](link)\
+[Beeper RowAdv](SC001_lecture02/BeeperRowAdv.py)\
   \
 [Steeplechase](link)
