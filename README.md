@@ -1,4 +1,4 @@
-# karel-peoject
+# karel-project
 this repository holds my programming projects done during the period of Stan code SC001 course.
 ## project source codes:
 [Beeper Row](SC001_lecture02/BeeperRow.py)\
